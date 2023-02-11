@@ -56,4 +56,7 @@ Epic User Management:
 Install the project by running npm i
 
 **Execute** the test cases by running npm run test
+
+To run the API tests, you need postman. Then just import the collection that is in the root of this project and run the collection from postman.
+The API contain validation tests to verify some of the content of the call as well as the status response code.
     
